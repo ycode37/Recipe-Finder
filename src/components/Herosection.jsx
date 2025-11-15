@@ -1,6 +1,6 @@
 import React from 'react';
 import { Link } from 'react-router-dom';
-import pic from '../assets/Herosection.webp';
+import pic from '../assets/herosection.webp';
 
 const Herosection = () => {
   return (
